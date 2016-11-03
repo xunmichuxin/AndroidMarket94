@@ -1,0 +1,16 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="C:\Users\Administrator\Pictures\Y4OWO808B8LK_1000x500.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.42" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
