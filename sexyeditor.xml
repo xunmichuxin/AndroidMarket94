@@ -3,11 +3,6 @@
     <option name="configs">
       <list>
         <BackgroundConfiguration>
-          <option name="fileNames">
-            <array>
-              <option value="C:\Users\Administrator\Pictures\11111.jpg" />
-            </array>
-          </option>
           <option name="opacity" value="0.51" />
         </BackgroundConfiguration>
       </list>
